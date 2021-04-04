@@ -1,11 +1,12 @@
-# Cobrinha-javascript-Game
+# Cobrinha-javascript-Game:Snake
 Esse e o projeto do jogo da cobrinha em javascript com bibliotecas Jquery HTML e CSS
 
-##Um Jogo usando HTML,CSS e JavaScript Com uso tbm do JQuery
+#Um Jogo usando HTML,CSS e JavaScript Com uso tbm do JQuery :Rocket
 
-usado para aperfeiçoar as minhas habilidades,
+usado para aperfeiçoar as minhas habilidades,aprender conteudos e ajudar a fazer mais mesmo
+sabendo pouco sobre programação enfim quero decolar minha carreira.
 
-###Sobre Mim
+#Sobre Mim:Student
 
 Ola sou o Efraimtenho 19 anos,sou um jovem estudante de Analise e desenvolvimento de Sistemas pelo Centro Universitário UNASP
 Tenho conhecimentos com HTML,CSS, JavaScript e tambem a linguagem de programação Java
